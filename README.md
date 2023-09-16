@@ -1,2 +1,2 @@
 # Tarea-01
-actividades relaciionadas con la primer tarea de github
+actividades relacionadas con la primer tarea de github
