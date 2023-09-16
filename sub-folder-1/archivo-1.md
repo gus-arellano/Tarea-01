@@ -5,6 +5,8 @@
 - lunes
 - martes
 - miércoles
+- jueves
+- viernes
 
 ## éste es un subtítulo
 
