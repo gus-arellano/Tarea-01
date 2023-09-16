@@ -7,6 +7,7 @@
 - miércoles
 - jueves
 - viernes
+- sábado
 
 ## éste es un subtítulo
 
